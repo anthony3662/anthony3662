@@ -5,7 +5,7 @@
 
 - :office: Frontend Javascript Developer. MERN Stack. I build games and websites
 - :round_pushpin: Based in New York, NY
-- - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 
 
 ### Tools & Technologies
