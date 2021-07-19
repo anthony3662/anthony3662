@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/anthony3662%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-ye-7b8673217/)](https://www.linkedin.com/in/anthony-ye-7b8673217/)
+[![Gmail](https://img.shields.io/badge/anthony3662%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:anthonyye3662@gmail.com)](mailto:anthonyye3662@gmail.com)
 <!--
 **anthony3662/anthony3662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
